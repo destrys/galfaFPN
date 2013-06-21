@@ -11,6 +11,7 @@ Wrapper for CREATE_SPECTRA to illustrate how the FPN spectra are built.
 
 ## SPCOR\_XINV_ORG.SAV
 The original spcor_xinv.sav file.
+(This file is 824Mb, so I'm not storing it on github)
 Contains
 
 * xarr = Array[1255,57344] -- Array of X vectors for linear fit. 57344 = 7*8192 (The seven spectra expanded
@@ -28,7 +29,7 @@ into a vector. 1255 = 512 (delta functions) + 512 (orthogonal delta functions?) 
 
 ## T2N4_AGGR.SAV
 
-Aggregated spectra from a2124 project, region t2n4.
+Aggregated spectra from a2124 project, region t2n4. 8192 channels, 2 polarization, 7 beams, number of declination ranges.
 
 ## FIND\_FPN_DESTRY.PRO
 
