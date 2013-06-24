@@ -20,6 +20,9 @@ plot,scan1[*,0,1]
 oplot,scan1[*,0,4]
 
 ; I'm not convinced...
+; I think that it's the difference from the average after
+; applying some sort of gain correction. Let's look in SPCOR
+
 
 
 stop
